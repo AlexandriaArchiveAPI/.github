@@ -32,16 +32,16 @@ A modern manuscript library: each repository is a codex, a scroll, or a recipe b
   Chronicles of ancient and medieval battles, weapons, strategies, and tactics.
   A digital treasury of ancient and medieval conflicts & wars that shaped history.
 
-- **[Food_and_Recipes](#)**  
+- **[BanquetScrolls](#)**  
   Favorite historical recipes — from Roman bread to medieval stews.  
 
-- **[Culture_and_Rituals](#)**  
+- **[DailyLifeChronicles](#)**  
   Perfumes, furniture, ceremonies, and everyday life across civilizations.  
 
-- **[People_and_Biographies](#)**  
+- **[FacesofHistory](#)**  
   Figures who shaped history, recorded like a monk’s annal.  
 
-- **[Chronicles](#)**  
+- **[Annals](#)**  
   Timelines, random notes, and eclectic history scraps.
 
 ---
