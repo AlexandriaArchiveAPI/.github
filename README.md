@@ -28,8 +28,9 @@ From battle strategies and weaponry to crafts and daily life, from timelines and
 ## Catalogue of Repos
 A modern manuscript library: each repository is a codex, a scroll, or a recipe book.
 
-- **[Battles_and_Warfare](#)**  
-  Chronicles of ancient and medieval battles, strategies, and tactics.  
+- **[WarChest](#)**  
+  Chronicles of ancient and medieval battles, weapons, strategies, and tactics.
+  A digital treasury of ancient and medieval conflicts & wars that shaped history.
 
 - **[Food_and_Recipes](#)**  
   Favorite historical recipes — from Roman bread to medieval stews.  
