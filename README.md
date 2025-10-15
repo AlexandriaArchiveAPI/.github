@@ -39,7 +39,7 @@ A modern manuscript library: each repository is a codex, a scroll, or a recipe b
   Perfumes, furniture, ceremonies, and everyday life across civilizations.  
 
 - **[FacesofHistory](#)**  
-  Figures who shaped history, recorded like a monk’s annal.  
+  The Living Codex — portraits of the minds and makers who shaped civilization.
 
 - **[Annals](#)**  
   Timelines, random notes, and eclectic history scraps.
